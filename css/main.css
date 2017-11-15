@@ -1,0 +1,51 @@
+
+body {
+  font-family: 'Inconsolata', monospace;
+}
+
+
+
+h3 {
+  font-size: 10px;
+  margin: 0;
+}
+
+hr{
+  width: 40px;
+  position: absolute; top: 30px;
+  margin: 0;
+}
+
+div, img {
+  display: inline-block;
+  position: relative;
+  width: 100px;
+  top: 15px;
+  padding-right: 10px;
+}
+
+div p {
+
+  position: absolute;
+  bottom: -18px;
+  left: 30px;
+  padding: 5px;
+  width: 100%;
+  color: white;
+  font-size: 8px;
+}
+
+section {
+  padding-top: 15px;
+}
+
+section p {
+
+  position: absolute;
+  left: 30px;
+  bottom: -18px;
+  padding: 5px;
+  width: 100%;
+  color: white;
+  font-size: 8px;
+}
