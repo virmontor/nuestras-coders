@@ -1,19 +1,18 @@
 
 body {
   font-family: 'Inconsolata', monospace;
+  margin-left: 400px;
+  margin-top: 40px;
 }
-
-
 
 h3 {
   font-size: 10px;
   margin: 0;
-
 }
 
-hr{
+hr {
   width: 40px;
-  position: absolute; top: 25px;
+  position: absolute; top: 60px;
   margin: 0;
 }
 
@@ -26,7 +25,6 @@ div, img {
 }
 
 div p {
-
   position: absolute;
   bottom: -18px;
   left: 30px;
@@ -42,7 +40,6 @@ section {
 }
 
 section p {
-
   position: absolute;
   left: 30px;
   bottom: -18px;
